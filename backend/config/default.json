@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbURL": "mongodb+srv://paketoff:CuL0obEZPj0f9JN0@cloud-mern.fz5qrdu.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\kekis\\OneDrive\\Рабочий стол\\node_Projects\\mern-cloud-disk\\backend\\files"
+}
